@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋</h1><h2 align="center">I'm Merve. Science & Technology Lover. Wife. Mommy of a little princess💕</h2>
+<h1 align="center">Hi there, I'm Merve. 👋</h1><h2 align="center">Science & Technology Lover. Wife. Mommy of a little princess💕</h2>
 <h3 align="center">A (Jr.)Full-Stack Web Developer from Turkey.</h3>
 
 <h3 align="left">Connect with me:</h3>
